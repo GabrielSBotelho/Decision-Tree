@@ -9,7 +9,7 @@ A árvore de decisão é um algoritmo supervisionado (ou seja, os dados estão r
 ### Árvore de Regressão
 
 - Variável dependente contínua.
-- O valor obtido pelos nós terminais nos dados de treinamento é a resposta média **(por padrão, podendo ser alterado para mediana) da observação que caí nessa região.
+- O valor obtido pelos nós terminais nos dados de treinamento é a resposta média *(por padrão, podendo ser alterado para mediana)* da observação que caí nessa região.
 - [Exemplo](https://github.com/GabrielSBotelho/Decision-Tree/blob/main/DecisionTree_Regression.ipynb).
 
 ### Árvore de Classificação
