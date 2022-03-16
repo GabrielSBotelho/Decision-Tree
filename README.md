@@ -1,4 +1,4 @@
-# Árvore de Decisão
+# :deciduous_tree: Árvore de Decisão
 
 A árvore de decisão é um algoritmo supervisionado (ou seja, os dados estão rotulados) , sendo usado principalmente para problemas de classificação.  A árvore de decisão tem como característica o processo de *dividir para conquistar.* Ela segue a abordagem *de cima para baixo*, pois ela é construída do nó pai indo até os nós terminais. A árvore de decisão faz parte dos algoritmos *greedy*, pois ela tem como foco apenas a divisão atual sem se preocupar com a próxima.  Uma árvore de decisão tem a seguinte representação
 
